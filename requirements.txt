@@ -1,0 +1,14 @@
+streamlit>=1.28
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+plotly>=5.17
+matplotlib>=3.7
+openpyxl>=3.1
+# Optional advanced solvers/libraries if you want to extend exactly like the PDF:
+# pulp>=2.7
+# cvxpy>=1.4
+# pyomo>=6.6
+# pymoo>=0.6.1
+# gymnasium>=0.29
+# stable-baselines3>=2.1
